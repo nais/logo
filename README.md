@@ -16,6 +16,7 @@ Etter at vi startet med Naas, så har vi fått tenants, som fortjener sine egne 
 
 <span>
   <img src="/nais-v2-ssb.svg?raw=true" alt="Nais logo for SSB" width="200" />
+  <img src="/nais-v2-ldir.svg?raw=true" alt="Nais logo for Landbruksdirektoratet" width="200" />
   <img src="/nais-v2-atil.svg?raw=true" alt="Nais logo for Arbeidstilsynet" width="200" />
 </span>
 
