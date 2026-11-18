@@ -21,6 +21,7 @@ Etter at vi startet med Naas, så har vi fått tenants, som fortjener sine egne 
   <img src="/nais-v2-atil.svg?raw=true" alt="Nais logo for Arbeidstilsynet" width="200" />
   <img src="/nais-v2-miljodir.svg?raw=true" alt="Nais logo for Miljødirektoratet" width="200" />
   <img src="/nais-v2-novari.svg?raw=true" alt="Nais logo for Novari IKS" width="200" />
+  <img src="/nais-v2-ks-digital.svg?raw=true" alt="Nais logo for KS Digital" width="200" />
 </span>
 
 ## Fra v1 til v2
